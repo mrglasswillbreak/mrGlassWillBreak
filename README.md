@@ -1,6 +1,6 @@
 # Hi, I'm Moe 👋
 
-Aspiring Frontend-focused developer passionate about JavaScript, React, and building clean web apps.
+Aspiring Frontend-focused developer passionate about Web Development, JavaScript, React, and building clean web apps.
 
 ## 🚀 Projects
 - 🔹 Landing Page – Simple static responsive landing page + https://mrglasswillbreak.github.io/TOPLandingPage/
