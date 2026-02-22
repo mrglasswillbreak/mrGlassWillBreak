@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Moe 👋
 
-<!--
-**mrglasswillbreak/mrGlassWillBreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Frontend-focused developer passionate about JavaScript, React, and building clean web apps.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔹 Landing Page – Simple static responsive landing page + https://mrglasswillbreak.github.io/TOPLandingPage/
+- 🔹 RockPaperScissors – Web console-only JavaScript Rock Paper Scissors game + Live link
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML | CSS | JavaScript | Git | React | Node
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/muhammed-abdulhadi-7b9ba2278
+- Email: moetheman111@gmail.com
+- Email: mrglasswillbreak@gmail.com
