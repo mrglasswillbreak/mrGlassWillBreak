@@ -6,6 +6,12 @@ Aspiring Frontend-focused developer passionate about Web Development, JavaScript
 - 🔹 Landing Page – Simple static responsive landing page + https://mrglasswillbreak.github.io/TOPLandingPage/
 - 🔹 RockPaperScissors – Web console-only JavaScript Rock Paper Scissors game + Live link
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark" />
+</p>
+
 ### 🛠️ Tech Stack
 
 <div align="center">
