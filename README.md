@@ -37,8 +37,8 @@ Aspiring Full-stack developer passionate about Web Development, JavaScript, Reac
 <!-- ===================== Projects ===================== -->
 
 ## 🚀 Projects
-- 🔹 Landing Page – Simple static responsive landing page + https://mrglasswillbreak.github.io/TOPLandingPage/
-- 🔹 RockPaperScissors – Web console-only JavaScript Rock Paper Scissors game + Live link
+- 🔹 Landing Page – Simple static responsive landing page : https://mrglasswillbreak.github.io/TOPLandingPage/
+- 🔹 RockPaperScissors – Web console-only JavaScript Rock Paper Scissors game : https://mrglasswillbreak.github.io/RockPaperScisors/
 
 ---
 
