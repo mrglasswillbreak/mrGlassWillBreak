@@ -63,7 +63,7 @@ Interactive browser-based game built with JavaScript and DOM manipulation.
 - Structured game state handling
 
 🔗 Live Demo: *([Live Preview](https://mrglasswillbreak.github.io/RockPaperScisors/))*  
-📂 Repository: *([Live Preview](https://github.com/mrglasswillbreak/RockPaperScisors))*  
+📂 Repository: *([RockPaperScissors](https://github.com/mrglasswillbreak/RockPaperScisors))*  
 
 ---
 
@@ -73,10 +73,11 @@ Responsive layout project focused on clean HTML structure and CSS styling.
 **Highlights**
 - Flexbox layout
 - Semantic HTML
-- Clean visual structure
+- Clean visual layout
+- Responsive structure
 
 🔗 Live Demo: *([Live Preview](https://mrglasswillbreak.github.io/TOPLandingPage/))*  
-📂 Repository: *([Live Preview](https://github.com/mrglasswillbreak/TOPLandingPage))*  
+📂 Repository: *([Landing Page](https://github.com/mrglasswillbreak/TOPLandingPage))*  
 
 ---
 
