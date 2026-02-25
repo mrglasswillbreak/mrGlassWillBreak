@@ -5,17 +5,17 @@
   Student Developer • Web & JavaScript Focused • Tech Enthusiast
 </p>
 <p align="center">
-Aspiring Full-stack developer passionate about Web Development, JavaScript, React, and building clean web apps.
+Aspiring Full-Stack Developer passionate about building clean, scalable web applications with JavaScript and modern web technologies.
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-- Strengthening JavaScript fundamentals
+- Deepening core JavaScript fundamentals and problem-solving skills
 - Building structured, scalable frontend projects
-- Improving Git workflow & commit hygiene
-- Preparing for professional developer opportunities
+- Strengthening Git workflow and commit discipline
+- Preparing for professional software development opportunities
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -34,6 +34,7 @@ Aspiring Full-stack developer passionate about Web Development, JavaScript, Reac
 - GitHub
 - Node.js
 - VS Code  
+
 ---
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
@@ -55,12 +56,15 @@ Aspiring Full-stack developer passionate about Web Development, JavaScript, Reac
 ## 📌 Featured Projects
 
 ### 🔹 Rock Paper Scissors Game
-Interactive browser-based game built with JavaScript and DOM manipulation.
+A modern browser-based implementation of the classic game built with HTML, CSS (Flexbox), and Vanilla JavaScript.
 
 **Highlights**
-- Event-driven logic
-- Dynamic UI updates
-- Structured game state handling
+- Scalable event delegation architecture
+- Dynamic DOM rendering with real-time score tracking
+- First-to-5 win logic with automated game-state management
+- Button state control and restart functionality
+- Fully centered responsive layout using Flexbox
+- Clear separation of concerns with external HTML, CSS, and JS files
 
 🔗 Live Demo: *([Live Preview](https://mrglasswillbreak.github.io/RockPaperScisors/))*  
 📂 Repository: *([RockPaperScissors](https://github.com/mrglasswillbreak/RockPaperScisors))*  
@@ -68,13 +72,13 @@ Interactive browser-based game built with JavaScript and DOM manipulation.
 ---
 
 ### 🔹 Landing Page Project
-Responsive layout project focused on clean HTML structure and CSS styling.
+Responsive layout project focused on semantic structure and clean UI composition.
 
 **Highlights**
-- Flexbox layout
-- Semantic HTML
-- Clean visual layout
-- Responsive structure
+- Flexbox-based layout system
+- Semantic HTML structure
+- Clean and organized visual hierarchy
+- Responsive design principles
 
 🔗 Live Demo: *([Live Preview](https://mrglasswillbreak.github.io/TOPLandingPage/))*  
 📂 Repository: *([Landing Page](https://github.com/mrglasswillbreak/TOPLandingPage))*  
@@ -83,18 +87,19 @@ Responsive layout project focused on clean HTML structure and CSS styling.
 
 ## 🧠 Development Approach
 
-- Break problems into small, manageable components
-- Write modular, readable code
-- Use meaningful commit messages
-- Refactor for clarity and maintainability
+- Break complex problems into manageable components
+- Write modular, maintainable, and readable code
+- Use descriptive and meaningful commit messages
+- Refactor consistently for clarity and scalability
 
+---
 
 ## 📚 Currently Learning
 
-- Advanced JavaScript patterns
-- Asynchronous programming & APIs
+- Advanced JavaScript patterns and architecture
+- Asynchronous programming and APIs
 - Modern frontend frameworks
-- Backend fundamentals
+- Backend fundamentals and server-side logic
 
 ---
 
