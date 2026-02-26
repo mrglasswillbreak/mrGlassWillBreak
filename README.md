@@ -56,18 +56,17 @@ Aspiring Full-Stack Developer passionate about building clean, scalable web appl
 ## 📌 Featured Projects
 
 ### 🔹 Rock Paper Scissors Game
-A modern browser-based implementation of the classic game built with HTML, CSS (Flexbox), and Vanilla JavaScript.
+A modern browser-based implementation of the classic game built with **HTML, CSS (Flexbox)**, and **Vanilla JavaScript**.
 
 **Highlights**
-- Scalable event delegation architecture
-- Dynamic DOM rendering with real-time score tracking
-- First-to-5 win logic with automated game-state management
-- Button state control and restart functionality
-- Fully centered responsive layout using Flexbox
-- Clear separation of concerns with external HTML, CSS, and JS files
+- Scalable event delegation architecture for button handling
+- Dynamic DOM updates with real-time score tracking
+- First-to-5 win system with automatic game-over detection
+- Modular and maintainable code structure
+- Works seamlessly across desktop and mobile screens
 
 🔗 Live Demo: *([Live Preview](https://mrglasswillbreak.github.io/RockPaperScisors/))*  
-📂 Repository: *([RockPaperScissors](https://github.com/mrglasswillbreak/RockPaperScisors))*  
+📂 Repository: *([RockPaperScissors](https://github.com/mrglasswillbreak/RockPaperScisors))*
 
 ---
 
@@ -82,6 +81,22 @@ Responsive layout project focused on semantic structure and clean UI composition
 
 🔗 Live Demo: *([Live Preview](https://mrglasswillbreak.github.io/TOPLandingPage/))*  
 📂 Repository: *([Landing Page](https://github.com/mrglasswillbreak/TOPLandingPage))*  
+
+---
+
+### 🔹 Etch-a-Sketch Project
+A full viewport, interactive drawing grid built with HTML, CSS Grid, and Vanilla JavaScript.
+
+**Highlights**
+- Dynamic grid resizing (1–100 squares per side)
+- Touch and mouse drag support for smooth drawing
+- Progressive 10-level grayscale darkening effect
+- Full viewport responsive layout
+- Performance optimized with event delegation
+- Modular, readable, and scalable code structure
+
+🔗 Live Demo: *([Live Preview](https://mrglasswillbreak.github.io/etch-a-sketch/))*  
+📂 Repository: *([Etch-a-Sketch](https://github.com/mrglasswillbreak/etch-a-sketch))*  
 
 ---
 
