@@ -85,8 +85,10 @@ Interactive drawing grid built with HTML, CSS Grid, and Vanilla JavaScript.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark&hide_border=true" />
 </p>
+
 - **GitHub Stats:**
-  https://github-readme-stats.vercel.app/api?username=mrGlassWillBreak&show_icons=true
+  <p>https://github-readme-stats.vercel.app/api?username=mrGlassWillBreak&show_icons=true
+</p>
 
 ---
 
