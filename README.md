@@ -5,16 +5,22 @@
 
 <p align="center">
   I build responsive, user-focused web applications with clean architecture,
-  maintainable code, and strong Git workflow practices.
+  maintainable code, and practical Git/GitHub workflows.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammed-abdulhadi-7b9ba2278">LinkedIn</a> •
+  <a href="mailto:moetheman111@gmail.com">Email</a> •
+  <a href="mailto:mrglasswillbreak@gmail.com">Alternate Email</a>
 </p>
 
 ---
 
 ## Professional Summary
 
-I am a student developer focused on growing into a professional software engineer.
-My current work centers on JavaScript fundamentals, frontend architecture, and
-practical project delivery using modern web tools.
+I am a student developer focused on becoming a professional software engineer.
+I currently build frontend-focused projects that strengthen JavaScript problem-solving,
+UI architecture, and production-style development habits.
 
 ---
 
@@ -31,16 +37,19 @@ practical project delivery using modern web tools.
 
 ---
 
-## GitHub Activity
-
-- **Contribution Graph:**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## Selected Projects
+
+### Calculator
+A browser calculator project built with HTML, CSS, and JavaScript.
+
+**Highlights**
+- Arithmetic operations with keyboard and button input support
+- Clear/reset, decimal handling, and operator chaining
+- Responsive layout designed for desktop and mobile screens
+- Focus on clean UI states and predictable interaction flow
+
+- **Live Demo:** https://mrglasswillbreak.github.io/TOPCalculator/
+- **Repository:** https://github.com/mrglasswillbreak/TOPCalculator
 
 ### Rock Paper Scissors
 Browser-based game built with HTML, CSS, and Vanilla JavaScript.
@@ -52,7 +61,7 @@ Browser-based game built with HTML, CSS, and Vanilla JavaScript.
 - Mobile-friendly responsive behavior
 
 - **Live Demo:** https://github.com/mrglasswillbreak/RockPaperScissors/
-- **Repository:** https://github.com/mrglasswillbreak/RockPaperScisors
+- **Repository:** https://github.com/mrglasswillbreak/RockPaperScissors
 
 ### Landing Page
 Responsive layout project emphasizing semantic HTML and clear UI hierarchy.
@@ -85,6 +94,14 @@ Interactive drawing grid built with HTML, CSS Grid, and Vanilla JavaScript.
 - Building production-style frontend projects
 - Expanding backend knowledge and API integration experience
 - Preparing for internship and junior developer opportunities
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
