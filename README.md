@@ -42,7 +42,7 @@ Browser-based game built with HTML, CSS, and Vanilla JavaScript.
 - First-to-5 match flow with game-over detection
 - Mobile-friendly responsive behavior
 
-- **Live Demo:** https://mrglasswillbreak.github.io/RockPaperScisors/
+- **Live Demo:** https://github.com/mrglasswillbreak/RockPaperScissors/
 - **Repository:** https://github.com/mrglasswillbreak/RockPaperScisors
 
 ### Landing Page
