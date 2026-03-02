@@ -31,6 +31,15 @@ practical project delivery using modern web tools.
 
 ---
 
+## GitHub Activity
+
+- **Contribution Graph:**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ## Selected Projects
 
 ### Rock Paper Scissors
@@ -76,19 +85,6 @@ Interactive drawing grid built with HTML, CSS Grid, and Vanilla JavaScript.
 - Building production-style frontend projects
 - Expanding backend knowledge and API integration experience
 - Preparing for internship and junior developer opportunities
-
----
-
-## GitHub Activity
-
-- **Contribution Graph:**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark&hide_border=true" />
-</p>
-
-- **GitHub Stats:**
-  <p>https://github-readme-stats.vercel.app/api?username=mrGlassWillBreak&show_icons=true
-</p>
 
 ---
 
