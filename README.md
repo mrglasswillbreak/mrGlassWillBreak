@@ -42,6 +42,18 @@ practical project delivery using modern web tools.
 
 ## Selected Projects
 
+### Calculator
+A browser calculator project built with HTML, CSS, and JavaScript.
+
+**Highlights**
+- Arithmetic operations with keyboard and button input support
+- Clear/reset, decimal handling, and operator chaining
+- Responsive layout designed for desktop and mobile screens
+- Focus on clean UI states and predictable interaction flow
+
+- **Live Demo:** https://mrglasswillbreak.github.io/calculator/
+- **Repository:** https://github.com/mrglasswillbreak/calculator
+
 ### Rock Paper Scissors
 Browser-based game built with HTML, CSS, and Vanilla JavaScript.
 
