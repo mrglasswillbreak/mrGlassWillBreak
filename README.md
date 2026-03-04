@@ -1,6 +1,6 @@
 <h1 align="center">Muhammed Abdulhadi</h1>
 <p align="center">
-  Aspiring Full-Stack Developer • JavaScript & Web Technologies
+  Aspiring Full-Stack Developer • JavaScript, React, Node.js & Web Technologies
 </p>
 
 <p align="center">
@@ -20,27 +20,50 @@ practical project delivery using modern web tools.
 
 ## Core Skills
 
-- **Languages & Markup:** JavaScript, HTML, CSS
+- **Languages & Markup:** JavaScript, TypeScript, Python, HTML, CSS, C++
 - **Frameworks & Libraries:** React, Node.js
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, Vercel
 - **Practices:** Modular design, responsive UI, semantic structure, clean commit history
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,react,nodejs" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,react,nodejs" alt="Tech stack icons" />
 </p>
 
 ---
 
 ## GitHub Activity
 
-- **Contribution Graph:**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark&hide_border=true" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <!-- Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mrGlassWillBreak&show_icons=true&theme=react-dark&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrGlassWillBreak&theme=react-dark" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrGlassWillBreak&langs_count=8&layout=compact&theme=react-dark" />
 </p>
 
 ---
 
 ## Selected Projects
+
+### Portfolio Website
+Personal developer portfolio showcasing all projects and skills.
+
+**Highlights**
+- Fully responsive and production-ready web portfolio
+- Clean design and semantic HTML structure
+- Showcases interactive frontend projects
+- Deployed live via Vercel
+
+- **Live Demo:** https://mrglasswillbreak.vercel.app
+- **Repository:** https://github.com/mrglasswillbreak/portfolio
 
 ### Calculator
 A browser calculator project built with HTML, CSS, and JavaScript.
@@ -49,7 +72,6 @@ A browser calculator project built with HTML, CSS, and JavaScript.
 - Arithmetic operations with keyboard and button input support
 - Clear/reset, decimal handling, and operator chaining
 - Responsive layout designed for desktop and mobile screens
-- Focus on clean UI states and predictable interaction flow
 
 - **Live Demo:** https://mrglasswillbreak.github.io/calculator/
 - **Repository:** https://github.com/mrglasswillbreak/calculator
