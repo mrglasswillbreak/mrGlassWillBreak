@@ -36,7 +36,7 @@ production deployment workflows.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrGlassWillBreak&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrglasswillbreak&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
@@ -44,12 +44,12 @@ production deployment workflows.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrGlassWillBreak&show_icons=true&theme=react-dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrglasswillbreak&theme=github_dark" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=mrGlassWillBreak&theme=react-dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrGlassWillBreak&langs_count=8&layout=compact&theme=react-dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrglasswillbreak&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
