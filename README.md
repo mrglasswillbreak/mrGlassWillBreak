@@ -67,7 +67,7 @@ environment.
 - RESTful routing architecture with clean MVC separation
 - Deployed and live on Render with persistent backend services
 
-- **Live Demo:** https://rosegoldhotels.onrender.com/
+- **Live Demo:** https://rosegoldhotels.onrender.com/ (hosted on Render free tier — allow a few seconds for cold start)
 - **Repository:** https://github.com/mrglasswillbreak/rosegoldHotels
 
 ### Portfolio Website
