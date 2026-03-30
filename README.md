@@ -62,8 +62,8 @@ room listings, and a complete booking workflow. Deployed on Render with a live p
 environment.
 
 **Highlights**
-- Server-side rendered pages using Node.js and Express
-- Database-driven room listings and reservation management
+- Server-side rendered pages using Python and Django
+- Postgresql Database-driven room listings and reservation management
 - RESTful routing architecture with clean MVC separation
 - Deployed and live on Render with persistent backend services
 
