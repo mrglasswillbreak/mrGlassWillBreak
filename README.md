@@ -40,7 +40,7 @@ production deployment workflows.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrGlassWillBreak&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
