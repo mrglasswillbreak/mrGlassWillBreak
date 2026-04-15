@@ -82,51 +82,35 @@ Personal developer portfolio showcasing all projects and skills.
 - **Live Demo:** https://mrglasswillbreak.vercel.app
 - **Repository:** https://github.com/mrglasswillbreak/portfolio
 
-### Calculator
-A browser calculator built with HTML, CSS, and JavaScript.
+### Photography Portfolio
+Modern, full-stack photography portfolio with built-in first-party analytics and a
+client-accessible admin CMS for managing all site content. Built with Next.js, React,
+TypeScript, and Tailwind CSS, backed by PostgreSQL and Vercel Blob storage.
 
 **Highlights**
-- Arithmetic operations with keyboard and button input support
-- Clear/reset, decimal handling, and operator chaining
-- Responsive layout designed for desktop and mobile screens
+- Luxurious animations powered by Framer Motion with optimized hero section
+- Admin CMS with JWT authentication for managing gallery, services, and all site content
+- Database-driven masonry gallery with category filtering, lightbox, and drag-and-drop uploads
+- Built-in analytics dashboard, favicon manager, and typography/style configurator
+- Deployed live on Vercel
 
-- **Live Demo:** https://mrglasswillbreak.github.io/calculator/
-- **Repository:** https://github.com/mrglasswillbreak/calculator
+- **Live Demo:** https://photography-portfolio-amber-nine.vercel.app
+- **Repository:** https://github.com/mrglasswillbreak/photographyPortfolio
 
-### Rock Paper Scissors
-Browser-based game built with HTML, CSS, and Vanilla JavaScript.
-
-**Highlights**
-- Event delegation architecture for scalable interaction handling
-- Real-time score tracking with dynamic DOM updates
-- First-to-5 match flow with game-over detection
-- Mobile-friendly responsive behavior
-
-- **Live Demo:** https://mrglasswillbreak.github.io/RockPaperScissors/
-- **Repository:** https://github.com/mrglasswillbreak/RockPaperScissors
-
-### Etch-a-Sketch
-Interactive drawing grid built with HTML, CSS Grid, and Vanilla JavaScript.
+### GadgetsByTJ
+Full-stack e-commerce storefront for mobile electronics and accessories. Built with
+Next.js 15 App Router, TypeScript, Tailwind CSS, and Framer Motion, with a complete
+admin panel for managing products, categories, and site settings.
 
 **Highlights**
-- Dynamic grid resizing (1–100 squares per side)
-- Mouse and touch drawing support
-- Progressive grayscale darkening effect
-- Performance-minded event delegation pattern
+- Next.js 15 App Router with Drizzle ORM and Neon PostgreSQL database
+- Admin dashboard with full CRUD for products, categories, devices, and gallery
+- NextAuth v5 authentication with credentials provider
+- Vercel Blob image storage and Zod schema validation
+- Deployed live on Vercel
 
-- **Live Demo:** https://mrglasswillbreak.github.io/etch-a-sketch/
-- **Repository:** https://github.com/mrglasswillbreak/etch-a-sketch
-
-### Landing Page
-Responsive layout project emphasizing semantic HTML and clear UI hierarchy.
-
-**Highlights**
-- Flexible layout using CSS Flexbox
-- Structured and accessible content organization
-- Consistent visual hierarchy across screen sizes
-
-- **Live Demo:** https://mrglasswillbreak.github.io/TOPLandingPage/
-- **Repository:** https://github.com/mrglasswillbreak/TOPLandingPage
+- **Live Demo:** https://gadgets-by-tj.vercel.app
+- **Repository:** https://github.com/mrglasswillbreak/GadgetsByTJ
 
 ---
 
