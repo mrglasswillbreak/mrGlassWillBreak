@@ -62,6 +62,20 @@ A corporate website and registration platform for an African-founded proprietary
 
 [Case study](https://mrglasswillbreak.vercel.app/projects/fidarsi) · [Live site](https://fidarsica.org)
 
+### 05 / KinSous
+
+**A taste of home. A helping hand nearby.**
+
+A Nigeria-first culinary marketplace connecting food requests with local helpers. Features include a searchable bounty board, bidding, helper profiles, private messaging, order milestones, and an installable PWA with offline fallback and draft recovery.
+
+[![KinSous marketplace homepage with local demonstration data](https://raw.githubusercontent.com/mrglasswillbreak/portfolio/master/public/images/projects/kinsous-home.webp)](https://mrglasswillbreak.vercel.app/projects/kinsous)
+
+**Next.js · TypeScript · Tailwind CSS · Neon PostgreSQL · Vercel Blob**
+
+[Case study](https://mrglasswillbreak.vercel.app/projects/kinsous) · [Live site](https://kinsous2.vercel.app) · [Source code](https://github.com/mrglasswillbreak/kinSous2)
+
+*The hosted app requires sign-in; the screenshot uses local demo data. Payment workflows require provider configuration and approval for live collection and delayed payouts.*
+
 ---
 
 ## What I work with
