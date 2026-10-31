@@ -20,4 +20,4 @@ To regenerate, supply a GitHub token through the `GH_TOKEN` environment variable
 node scripts/update-stats.mjs
 ```
 
-Do not commit credentials. To change the appearance, edit `assets/banner.svg` or `scripts/graphics.mjs`. The README intentionally leaves project highlights to GitHub's pinned repositories and links to the portfolio for case studies.
+Do not commit credentials. To change the appearance, edit `assets/banner-animated.svg` or `scripts/graphics.mjs`. The README intentionally leaves project highlights to GitHub's pinned repositories and links to the portfolio for case studies.

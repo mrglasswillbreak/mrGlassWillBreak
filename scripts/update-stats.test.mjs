@@ -25,9 +25,9 @@ test('graphics escape labels and preserve zero-activity and partial-week calenda
     repositories: [{ languages: { 'A&B <code>': 12 }, stargazers_count: 3 }], followers: 0, updated: '2026-10-31',
     calendar: { totalContributions: 0, weeks: [{ contributionDays: [{ date: '2026-10-31', weekday: 6, contributionCount: 0, contributionLevel: 'NONE' }] }] },
   });
-  assert.match(graphics['languages.svg'], /A&amp;B &lt;code&gt;/);
-  assert.match(graphics['activity.svg'], /Oct 2026: 0 contributions/);
-  assert.match(graphics['overview.svg'], /Stars earned: 3/);
+  assert.match(graphics['languages-animated.svg'], /A&amp;B &lt;code&gt;/);
+  assert.match(graphics['activity-animated.svg'], /Oct 2026: 0 contributions/);
+  assert.match(graphics['overview-animated.svg'], /Stars earned: 3/);
   for (const svg of Object.values(graphics)) {
     assert.doesNotMatch(svg, /NaN|undefined|Infinity|<script|<foreignObject/);
     assert.match(svg, /prefers-reduced-motion: reduce/);
@@ -72,11 +72,11 @@ test('recent activity uses an inclusive 30-day UTC window and zero days break st
 test('failed API requests leave the last successful graphics intact', async () => {
   const directory = await mkdtemp(path.join(tmpdir(), 'profile-stats-'));
   try {
-    await writeFile(path.join(directory, 'overview.svg'), 'last successful graphic');
+    await writeFile(path.join(directory, 'overview-animated.svg'), 'last successful graphic');
     await assert.rejects(updateStats({ token: 'test', directory, fetcher: async () => ({ ok: false, status: 503 }) }), /503/);
-    assert.equal(await readFile(path.join(directory, 'overview.svg'), 'utf8'), 'last successful graphic');
+    assert.equal(await readFile(path.join(directory, 'overview-animated.svg'), 'utf8'), 'last successful graphic');
   } finally {
-    await rm(path.join(directory, 'overview.svg'), { force: true });
+    await rm(path.join(directory, 'overview-animated.svg'), { force: true });
     await rmdir(directory);
   }
 });

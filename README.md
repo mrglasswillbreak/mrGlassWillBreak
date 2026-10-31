@@ -1,4 +1,4 @@
-[![Muhammed Abdulhadi — Thoughtful design. Useful things.](assets/banner.svg)](https://mrglasswillbreak.vercel.app)
+[![Muhammed Abdulhadi — Thoughtful design. Useful things.](assets/banner-animated.svg)](https://mrglasswillbreak.vercel.app)
 
 # Muhammed Abdulhadi
 
@@ -14,11 +14,11 @@ Open to **junior full-stack roles** and **freelance collaborations** · Remote /
 
 ## A little of what goes into the work
 
-[![GitHub overview: original public repositories, stars earned, followers, and contributions](assets/generated/overview.svg)](https://github.com/mrglasswillbreak?tab=repositories)
+[![GitHub overview: original public repositories, stars earned, followers, and contributions](assets/generated/overview-animated.svg)](https://github.com/mrglasswillbreak?tab=repositories)
 
-[![Animated monthly contributions, recent activity, active days, and longest streak](assets/generated/activity.svg)](https://github.com/mrglasswillbreak?tab=overview)
+[![Animated monthly contributions, recent activity, active days, and longest streak](assets/generated/activity-animated.svg)](https://github.com/mrglasswillbreak?tab=overview)
 
-[![Animated language donut and code-share bars for original public repositories](assets/generated/languages.svg)](https://github.com/mrglasswillbreak?tab=repositories)
+[![Animated language donut and code-share bars for original public repositories](assets/generated/languages-animated.svg)](https://github.com/mrglasswillbreak?tab=repositories)
 
 <details>
 <summary>About these numbers</summary>

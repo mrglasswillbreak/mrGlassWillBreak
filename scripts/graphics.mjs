@@ -116,5 +116,5 @@ export function renderGraphics({ repositories, followers, calendar, updated }) {
         `<rect x="324" y="${y + 10}" width="478" height="5" rx="2.5" fill="#293b2d"/><rect class="bar" style="animation-delay:${(index * .08).toFixed(2)}s" x="324" y="${y + 10}" width="${(language.percent * 4.78).toFixed(2)}" height="5" rx="2.5" fill="${palette[index]}"/>`;
     }).join('') : label(324, 200, 'No language data available yet.', 16, muted)) +
     label(28, 389, 'Share of repository code bytes · a view of the code, not a proficiency score', 12, muted));
-  return { 'overview.svg': overview, 'languages.svg': languageChart, 'activity.svg': rhythm };
+  return { 'overview-animated.svg': overview, 'languages-animated.svg': languageChart, 'activity-animated.svg': rhythm };
 }
