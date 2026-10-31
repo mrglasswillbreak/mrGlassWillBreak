@@ -4,6 +4,15 @@
   <defs>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#283025" stroke-width="1"/></pattern>
   </defs>
+  <style>
+    .cursor { animation: breathe 4s ease-in-out infinite; }
+    .code-left { animation: drift-left 8s ease-in-out infinite; }
+    .code-right { animation: drift-right 8s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+    @keyframes drift-left { 0%,100% { transform: translateX(0); } 50% { transform: translateX(-5px); } }
+    @keyframes drift-right { 0%,100% { transform: translateX(0); } 50% { transform: translateX(5px); } }
+    @media (prefers-reduced-motion: reduce) { .cursor,.code-left,.code-right { animation: none !important; } }
+  </style>
   <rect width="1000" height="300" rx="18" fill="#101510"/>
   <rect x="690" width="310" height="300" fill="url(#grid)"/>
   <g font-family="Arial, Helvetica, sans-serif">
@@ -18,10 +27,11 @@
   <g transform="translate(722 63)">
     <rect width="236" height="174" rx="12" fill="#172017" stroke="#46523b"/>
     <path d="M0 35H236" stroke="#46523b"/>
-    <circle cx="18" cy="18" r="4" fill="#d3ef93"/><circle cx="33" cy="18" r="4" fill="#7c9f54"/><circle cx="48" cy="18" r="4" fill="#50663d"/>
+    <circle class="cursor" cx="18" cy="18" r="4" fill="#d3ef93"/><circle cx="33" cy="18" r="4" fill="#7c9f54"/><circle cx="48" cy="18" r="4" fill="#50663d"/>
     <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
-      <path d="m70 77-24 25 24 25m96-50 24 25-24 25" stroke="#d3ef93"/>
-      <path d="m131 68-27 68" stroke="#8db8ef"/>
+      <path class="code-left" d="m70 77-24 25 24 25" stroke="#d3ef93"/>
+      <path class="code-right" d="m166 77 24 25-24 25" stroke="#d3ef93"/>
+      <path class="cursor" d="m131 68-27 68" stroke="#8db8ef"/>
     </g>
   </g>
 </svg>
